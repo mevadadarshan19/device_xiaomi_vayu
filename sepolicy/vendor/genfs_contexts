@@ -110,8 +110,6 @@ genfscon sysfs /devices/virtual/diag/diag/wakeup                                
 genfscon sysfs /devices/virtual/input/input1/wakeup                                                                                                u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/virtual/input/input3/wakeup                                                                                                u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/virtual/input/input4/wakeup                                                                                                u:object_r:sysfs_wakeup:s0
-genfscon sysfs /devices/virtual/misc/msm_amrnb/wakeup                                                                                              u:object_r:sysfs_wakeup:s0
-genfscon sysfs /devices/virtual/misc/msm_amrwb/wakeup                                                                                              u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/virtual/misc/msm_amrwbplus/wakeup                                                                                          u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/virtual/misc/msm_ape/wakeup                                                                                                u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/virtual/misc/msm_evrc/wakeup                                                                                               u:object_r:sysfs_wakeup:s0
